@@ -1,4 +1,4 @@
-# Write code below 💖
+# currency.py
 pesos = float(input("What do you have left in pesos? "))
 soles = float(input("What do you have left in soles?" ))
 reais = float(input("What do you have left in reais?" ))
