@@ -1,3 +1,5 @@
+# Random
+
 import random
 
 quest = input("Ask a question answered with yes or no: ")

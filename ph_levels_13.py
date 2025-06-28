@@ -1,4 +1,4 @@
-# ph_levels.py 💖
+# Relational Operators
 
 ph = (int(input("Digite um valor: ")))
 
