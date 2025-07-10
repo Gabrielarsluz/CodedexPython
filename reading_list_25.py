@@ -6,4 +6,4 @@ books = ['Harry Potter',
 books.append('Pachinko')
 books.remove('The Fault in Our Stars')
 books.pop(1)
-print(books)
+print(books[0:2])
